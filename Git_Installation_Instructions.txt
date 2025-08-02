@@ -1,0 +1,21 @@
+Step-by-step instructions to install Git on Windows 11:
+
+1. Open your web browser and navigate to the official Git website: https://git-scm.com/download/win
+
+2. The download for Windows should start automatically. If not, click the link to download the Git installer for Windows.
+
+3. Once the installer is downloaded, run the installer executable.
+
+4. Follow the installation wizard steps:
+   - Select the default options unless you have specific preferences.
+   - Important: When you reach the "Adjusting your PATH environment" step, choose "Git from the command line and also from 3rd-party software" to ensure Git is added to your system PATH.
+   - Continue with the default options for the rest of the installation.
+
+5. After installation completes, open a new terminal or command prompt window.
+
+6. Verify Git installation by running:
+   git --version
+
+   You should see the installed Git version printed.
+
+Once Git is installed and recognized, please let me know, and I will continue with creating the feature branch, modifying files, and pushing to GitHub.
